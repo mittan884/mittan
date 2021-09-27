@@ -4,9 +4,6 @@
     width: 2000px;
     margin-right:auto;
 }
-.body {
-    -webkit-text-size-adjust: 100%;
-}
 
 .name {font-size: 400%;
     font-family: "HG行書体";
