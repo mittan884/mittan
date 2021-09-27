@@ -1,9 +1,15 @@
 
+.bokasi{
+    position:relative;
+    top:0%;
+    left:50%;
+}
+
 .name {font-size: 70px;
     font-family: "HG行書体";
     position: absolute;
     top: 80%;
-    left: 30%%;
+    left: 0%;
     padding: 10px;
     background-color: rgb(247, 245, 245);
     color: rgb(25, 9, 112);
@@ -13,17 +19,10 @@
 .syoku{font-size: 20px;
     font-family: "HG行書体";
     position: absolute;
-    top: 93%;
-    left: 20%;
+    top: 95%;
+    left: 0%;
     padding: 10px;
     background-color: rgb(247, 245, 245);
     color: rgb(25, 9, 112);
-}
-
-.box {  
-    position: relative;
-    text-align:right
-
-    
 }
 
