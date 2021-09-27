@@ -1,9 +1,4 @@
 
-.bokasi{
-    
-    width: 100%;
-    margin-right:auto;
-}
 
 .name {font-size: 400%;
     font-family: "HG行書体";
@@ -24,3 +19,13 @@
 }
 img { max-width:100%; height:auto; }
 
+*{
+    background-color: rgb(134, 182, 204);
+    }
+
+
+    .offers{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+      }
