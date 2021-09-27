@@ -7,23 +7,23 @@
     -webkit-text-size-adjust: 100%;
 }
 
-.name {font-size: 70px;
+.name {font-size: 200%;
     font-family: "HG行書体";
     position: absolute;
     top: 85%;
-    left: 17%;
-    padding: 10px;
+    left: 22%;
+    padding: 1%;
     background-color: rgb(247, 245, 245);
     color: rgb(25, 9, 112);
     
     
     }
-.syoku{font-size: 20px;
+.syoku{font-size: 100%;
     font-family: "HG行書体";
     position: absolute;
     top: 100%;
-    left: 32%;
-    padding: 10px;
+    left: 17%;
+    padding: 1%;
     background-color: rgb(247, 245, 245);
     color: rgb(25, 9, 112);
 }
