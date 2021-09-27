@@ -3,6 +3,9 @@
     position:relative;
    
 }
+.body {
+    -webkit-text-size-adjust: 100%;
+}
 
 .name {font-size: 70px;
     font-family: "HG行書体";
