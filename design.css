@@ -1,7 +1,8 @@
 
 .bokasi{
-    position:relative;
-   
+    
+    width: 1000px;
+    margin-right:auto;
 }
 .body {
     -webkit-text-size-adjust: 100%;
